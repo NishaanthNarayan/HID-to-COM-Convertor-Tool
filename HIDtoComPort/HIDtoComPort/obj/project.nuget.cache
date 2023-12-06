@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hi+uXF7V0vUv0kpBauQFHkuPKE6fIK+ipGvNgakixVLCTvxJYDKOkqp/tQF4hQQoYxCOAc2u4DfQnf9u+EyNbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\narayan-1\\Downloads\\HIDtoComPort-27Oct2023\\HIDtoComPort\\HIDtoComPort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\narayan-1\\.nuget\\packages\\hidlibrary\\3.3.40\\hidlibrary.3.3.40.nupkg.sha512"
+  ],
+  "logs": []
+}
